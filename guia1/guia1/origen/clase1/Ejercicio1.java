@@ -3,7 +3,7 @@ package clase1;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
-		int numeroInicio = 5;
+		int numeroInicio = 7;
 		int numeroFin = 14;
 		// Se deberían mostrar los números:
 		// 5,6,7,8,9,10,11,12,13,14
