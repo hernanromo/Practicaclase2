@@ -4,7 +4,7 @@ public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		int numeroInicio = 5;
-		int numeroFin = 10;
+		int numeroFin = 12;
 		// Se deberían mostrar los números:
 		// 5,6,7,8,9,10,11,12,13,14
 
