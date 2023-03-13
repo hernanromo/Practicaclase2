@@ -3,11 +3,15 @@ package clase1;
 public class Ejercicio1 {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 <<<<<<< HEAD:guia1/guia1/src/clase1/Ejercicio1.java
 		int numeroInicio = 5;
 		int numeroFin = 12;
 =======
 		int numeroInicio = 7;
+=======
+		int numeroInicio = 5;
+>>>>>>> cb50e085cd75604083b99793aaf43e52918ccfde
 		int numeroFin =10;
 >>>>>>> 618245d8d91bdaa5e08830b6a86b4566af8d70d5:guia1/guia1/origen/clase1/Ejercicio1.java
 		// Se deberían mostrar los números:
